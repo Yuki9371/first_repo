@@ -1,7 +1,9 @@
 *
 !.gitignore
-!bioinformatics_freecodecamp
-!alphafold_review
+!bioinformatics_freecodecamp/
+!bioinformatics_freecodecamp/**
+!alphafold_review/
+!alphafold_review/**
 !filtered_mantamonis.xlsx
 !practice_code.ipynb
 !preliminary_classification.png
